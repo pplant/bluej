@@ -9,7 +9,7 @@
 public  class NewClass  
 {
 
-    private int i = 0;
+    private int i = 3;
 
 
 
